@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Book List
 
 ###Getting Started###
 
